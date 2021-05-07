@@ -28,8 +28,4 @@ Intégrer cette page en version desktop, tablette et mobile.
 
 # Résultat
 
-<<<<<<< HEAD
-Voici mon [site à consulter :](https://av-code80.github.io/BoutiquesAuto-AV/).
-=======
-Voici mon [site à consulter :]()
->>>>>>> c6f0c5e641e4b413a97cb8814058b05aff1db1a4
+# Voici mon [site à consulter :](https://av-code80.github.io/BoutiquesAuto-AV/).
