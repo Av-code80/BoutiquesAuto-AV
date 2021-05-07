@@ -1,12 +1,11 @@
 # BoutiquesAuto-AV
+
 Car shop projet based in CSS, HTML, JavaScript and CDN Bootstrap
 
-# At CarShop, the same ASE-certified technicians who recondition our cars to run and look like new are available to keep your car 
-in the best of shape. We service all makes and models, even ones that were purchased elsewhere.
+ At CarShop, the same ASE-certified technicians who recondition our cars to run and look like new are available to keep your car in the best of shape. We service all makes and models, even ones that were purchased elsewhere.
 
-# projet done within matchTeams by AvehGH in order of Final Client.
+# projet done within matchTeams by AvehGH in 2019 in order of Final Client.
 
-# Description : 
 
 # Contraintes :
 
