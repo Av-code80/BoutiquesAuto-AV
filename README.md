@@ -1,9 +1,10 @@
 # BoutiquesAuto-AV
+
 Car shop projet based in CSS, HTML, JavaScript and CDN Bootstrap
 
-# At CarShop, the same ASE-certified technicians who recondition our cars to run and look like new are available to keep your car 
-in the best of shape. We service all makes and models, even ones that were purchased elsewhere.
+ At CarShop, the same ASE-certified technicians who recondition our cars to run and look like new are available to keep your car in the best of shape. We service all makes and models, even ones that were purchased elsewhere.
 
+<<<<<<< HEAD
 # Description : 
 
 This project has created in 2018 within Web24.ir Web Agency.
@@ -28,4 +29,4 @@ Intégrer cette page en version desktop, tablette et mobile.
 
 # Résultat
 
-Voici mon [site à consulter :](https://av-code80.github.io/Agence-web-Fidesio/)
+Voici mon [site à consulter :](https://av-code80.github.io/BoutiquesAuto-AV/).
